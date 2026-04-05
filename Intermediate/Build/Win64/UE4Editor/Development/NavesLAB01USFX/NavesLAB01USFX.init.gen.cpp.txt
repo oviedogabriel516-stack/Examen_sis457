@@ -1,0 +1,3 @@
+D:\pachequita\NavesLAB01USFX-master\Intermediate\Build\Win64\UE4Editor\Development\NavesLAB01USFX\Definitions.NavesLAB01USFX.h
+E:\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+E:\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

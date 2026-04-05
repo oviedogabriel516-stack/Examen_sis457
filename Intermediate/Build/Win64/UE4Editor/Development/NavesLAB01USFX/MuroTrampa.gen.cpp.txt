@@ -1,0 +1,7 @@
+D:\pachequita\NavesLAB01USFX-master\Intermediate\Build\Win64\UE4Editor\Development\NavesLAB01USFX\Definitions.NavesLAB01USFX.h
+E:\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+E:\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\pachequita\NavesLAB01USFX-master\Source\NavesLAB01USFX/MuroTrampa.h
+D:\pachequita\NavesLAB01USFX-master\Source\NavesLAB01USFX\Muro.h
+D:\pachequita\NavesLAB01USFX-master\Intermediate\Build\Win64\UE4Editor\Inc\NavesLAB01USFX\Muro.generated.h
+D:\pachequita\NavesLAB01USFX-master\Intermediate\Build\Win64\UE4Editor\Inc\NavesLAB01USFX\MuroTrampa.generated.h

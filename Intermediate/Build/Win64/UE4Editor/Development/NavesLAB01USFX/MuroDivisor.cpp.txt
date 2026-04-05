@@ -1,0 +1,5 @@
+D:\pachequita\NavesLAB01USFX-master\Intermediate\Build\Win64\UE4Editor\Development\NavesLAB01USFX\Definitions.NavesLAB01USFX.h
+D:\pachequita\NavesLAB01USFX-master\Source\NavesLAB01USFX\MuroDivisor.h
+D:\pachequita\NavesLAB01USFX-master\Source\NavesLAB01USFX\Muro.h
+D:\pachequita\NavesLAB01USFX-master\Intermediate\Build\Win64\UE4Editor\Inc\NavesLAB01USFX\Muro.generated.h
+D:\pachequita\NavesLAB01USFX-master\Intermediate\Build\Win64\UE4Editor\Inc\NavesLAB01USFX\MuroDivisor.generated.h

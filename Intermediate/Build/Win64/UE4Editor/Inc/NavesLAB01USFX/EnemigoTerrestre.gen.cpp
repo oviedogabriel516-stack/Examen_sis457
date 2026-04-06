@@ -71,7 +71,7 @@ void EmptyLinkFunctionForGeneratedCodeEnemigoTerrestre() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AEnemigoTerrestre, 3474036113);
+	IMPLEMENT_CLASS(AEnemigoTerrestre, 2699780085);
 	template<> NAVESLAB01USFX_API UClass* StaticClass<AEnemigoTerrestre>()
 	{
 		return AEnemigoTerrestre::StaticClass();

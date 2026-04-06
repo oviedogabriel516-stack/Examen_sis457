@@ -13,10 +13,10 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define NAVESLAB01USFX_Enemigo_generated_h
 
-#define NavesLAB01USFX_master_Source_NavesLAB01USFX_Enemigo_h_16_SPARSE_DATA
-#define NavesLAB01USFX_master_Source_NavesLAB01USFX_Enemigo_h_16_RPC_WRAPPERS
-#define NavesLAB01USFX_master_Source_NavesLAB01USFX_Enemigo_h_16_RPC_WRAPPERS_NO_PURE_DECLS
-#define NavesLAB01USFX_master_Source_NavesLAB01USFX_Enemigo_h_16_INCLASS_NO_PURE_DECLS \
+#define NavesLAB01USFX_master_Source_NavesLAB01USFX_Enemigo_h_13_SPARSE_DATA
+#define NavesLAB01USFX_master_Source_NavesLAB01USFX_Enemigo_h_13_RPC_WRAPPERS
+#define NavesLAB01USFX_master_Source_NavesLAB01USFX_Enemigo_h_13_RPC_WRAPPERS_NO_PURE_DECLS
+#define NavesLAB01USFX_master_Source_NavesLAB01USFX_Enemigo_h_13_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAEnemigo(); \
 	friend struct Z_Construct_UClass_AEnemigo_Statics; \
@@ -25,7 +25,7 @@ public: \
 	DECLARE_SERIALIZER(AEnemigo)
 
 
-#define NavesLAB01USFX_master_Source_NavesLAB01USFX_Enemigo_h_16_INCLASS \
+#define NavesLAB01USFX_master_Source_NavesLAB01USFX_Enemigo_h_13_INCLASS \
 private: \
 	static void StaticRegisterNativesAEnemigo(); \
 	friend struct Z_Construct_UClass_AEnemigo_Statics; \
@@ -34,7 +34,7 @@ public: \
 	DECLARE_SERIALIZER(AEnemigo)
 
 
-#define NavesLAB01USFX_master_Source_NavesLAB01USFX_Enemigo_h_16_STANDARD_CONSTRUCTORS \
+#define NavesLAB01USFX_master_Source_NavesLAB01USFX_Enemigo_h_13_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API AEnemigo(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AEnemigo) \
@@ -47,7 +47,7 @@ private: \
 public:
 
 
-#define NavesLAB01USFX_master_Source_NavesLAB01USFX_Enemigo_h_16_ENHANCED_CONSTRUCTORS \
+#define NavesLAB01USFX_master_Source_NavesLAB01USFX_Enemigo_h_13_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API AEnemigo(AEnemigo&&); \
@@ -58,31 +58,31 @@ public: \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(AEnemigo)
 
 
-#define NavesLAB01USFX_master_Source_NavesLAB01USFX_Enemigo_h_16_PRIVATE_PROPERTY_OFFSET \
+#define NavesLAB01USFX_master_Source_NavesLAB01USFX_Enemigo_h_13_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__MallaEnemigo() { return STRUCT_OFFSET(AEnemigo, MallaEnemigo); }
 
 
-#define NavesLAB01USFX_master_Source_NavesLAB01USFX_Enemigo_h_13_PROLOG
-#define NavesLAB01USFX_master_Source_NavesLAB01USFX_Enemigo_h_16_GENERATED_BODY_LEGACY \
+#define NavesLAB01USFX_master_Source_NavesLAB01USFX_Enemigo_h_10_PROLOG
+#define NavesLAB01USFX_master_Source_NavesLAB01USFX_Enemigo_h_13_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	NavesLAB01USFX_master_Source_NavesLAB01USFX_Enemigo_h_16_PRIVATE_PROPERTY_OFFSET \
-	NavesLAB01USFX_master_Source_NavesLAB01USFX_Enemigo_h_16_SPARSE_DATA \
-	NavesLAB01USFX_master_Source_NavesLAB01USFX_Enemigo_h_16_RPC_WRAPPERS \
-	NavesLAB01USFX_master_Source_NavesLAB01USFX_Enemigo_h_16_INCLASS \
-	NavesLAB01USFX_master_Source_NavesLAB01USFX_Enemigo_h_16_STANDARD_CONSTRUCTORS \
+	NavesLAB01USFX_master_Source_NavesLAB01USFX_Enemigo_h_13_PRIVATE_PROPERTY_OFFSET \
+	NavesLAB01USFX_master_Source_NavesLAB01USFX_Enemigo_h_13_SPARSE_DATA \
+	NavesLAB01USFX_master_Source_NavesLAB01USFX_Enemigo_h_13_RPC_WRAPPERS \
+	NavesLAB01USFX_master_Source_NavesLAB01USFX_Enemigo_h_13_INCLASS \
+	NavesLAB01USFX_master_Source_NavesLAB01USFX_Enemigo_h_13_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define NavesLAB01USFX_master_Source_NavesLAB01USFX_Enemigo_h_16_GENERATED_BODY \
+#define NavesLAB01USFX_master_Source_NavesLAB01USFX_Enemigo_h_13_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	NavesLAB01USFX_master_Source_NavesLAB01USFX_Enemigo_h_16_PRIVATE_PROPERTY_OFFSET \
-	NavesLAB01USFX_master_Source_NavesLAB01USFX_Enemigo_h_16_SPARSE_DATA \
-	NavesLAB01USFX_master_Source_NavesLAB01USFX_Enemigo_h_16_RPC_WRAPPERS_NO_PURE_DECLS \
-	NavesLAB01USFX_master_Source_NavesLAB01USFX_Enemigo_h_16_INCLASS_NO_PURE_DECLS \
-	NavesLAB01USFX_master_Source_NavesLAB01USFX_Enemigo_h_16_ENHANCED_CONSTRUCTORS \
+	NavesLAB01USFX_master_Source_NavesLAB01USFX_Enemigo_h_13_PRIVATE_PROPERTY_OFFSET \
+	NavesLAB01USFX_master_Source_NavesLAB01USFX_Enemigo_h_13_SPARSE_DATA \
+	NavesLAB01USFX_master_Source_NavesLAB01USFX_Enemigo_h_13_RPC_WRAPPERS_NO_PURE_DECLS \
+	NavesLAB01USFX_master_Source_NavesLAB01USFX_Enemigo_h_13_INCLASS_NO_PURE_DECLS \
+	NavesLAB01USFX_master_Source_NavesLAB01USFX_Enemigo_h_13_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 

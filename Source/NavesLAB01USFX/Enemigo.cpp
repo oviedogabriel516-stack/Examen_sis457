@@ -19,9 +19,6 @@ AEnemigo::AEnemigo()
 	{
 		MallaEnemigo->SetStaticMesh(MallaAsset.Object);
 	}
-
-
-
 }
 
 // Called when the game starts or when spawned
